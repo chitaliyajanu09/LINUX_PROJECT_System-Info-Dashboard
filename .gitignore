@@ -1,0 +1,14 @@
+# Backup files
+backups/
+
+# Log files
+logs/*.log
+
+# Generated snapshots
+data/snapshots/*
+!data/snapshots/.gitkeep
+
+# Temporary files
+*.tmp
+*.swp
+
